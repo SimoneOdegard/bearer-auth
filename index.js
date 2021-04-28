@@ -12,7 +12,7 @@ let PORT = process.env.PORT;
 
 const options = {
   useNewUrlParser: true,
-  // useCreateIndex: true,
+  useCreateIndex: true,
   useUnifiedTopology: true,
 };
 
